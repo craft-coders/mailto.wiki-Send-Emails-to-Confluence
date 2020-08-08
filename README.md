@@ -1,2 +1,5 @@
-# mailto.wiki-Send-Emails-to-Confluence
-The plugin allows you to send emails to Confluence. These are processed according to rules you specify and finally saved in Confluence as a page or blog post.
+# mailto.wiki – Send-Emails-to-Confluence
+
+This add-on converts emails to Confluence pages or blog posts. It helps you to store and reference recurring newsletters, meeting notes and documentation in Confluence Cloud.
+
+[Read the User Documentation](https://github.com/craft-coders/mailto.wiki-Send-Emails-to-Confluence/wiki)

@@ -2,7 +2,7 @@
 
 This add-on converts emails to Confluence pages or blog posts. It helps you to store and reference recurring newsletters, meeting notes and documentation in Confluence Cloud.
 
-![Plugin Explanation](FLow.png)
+![Plugin Explanation](Flow.png)
 
 ## Getting started
 
